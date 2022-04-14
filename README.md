@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vilekha29
+- 👀 I’m interested in Data Analytics and Business Intelligence
+- 🌱 I’m currently learning machine learning algorithms and building data visualisations. 
+- 💞️ I’m looking to collaborate on machine learning projects in Python.
+- 📫 Please feel free to reach out to me at vilekha@gmail.com
